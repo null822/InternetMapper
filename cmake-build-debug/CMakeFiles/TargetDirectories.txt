@@ -1,0 +1,3 @@
+C:/Code/C++/InternetMapper/cmake-build-debug/CMakeFiles/InternetMapper.dir
+C:/Code/C++/InternetMapper/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Code/C++/InternetMapper/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,8 @@
+# ninja log v5
+2	1705	7226541953855943	CMakeFiles/InternetMapper.dir/main.cpp.obj	730b246e472a45d7
+1705	1855	7226541955343618	InternetMapper.exe	f0f7f060774ecd41
+1	98	7226580270025914	build.ninja	4cddfb9f3a1f9b17
+6	171	7226541938544613	CMakeFiles/InternetMapper.dir/ColoredText.cpp.obj	127e0d80dc54dc01
+3	175	7226580304264625	CMakeFiles/InternetMapper.dir/src/ColoredText.cpp.obj	7797890c708854ab
+0	1812	7226580320609265	CMakeFiles/InternetMapper.dir/src/main.cpp.obj	6af7391f6273e641
+1813	2032	7226580322789857	InternetMapper.exe	16545da42ed046ce
